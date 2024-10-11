@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a15c49a-b001-423e-bf63-6b70ebbe0aa5" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/data_anal/09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/machine_learning/linear_regression_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/machine_learning/linear_regression_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.classfication_test">
+  <component name="RunManager" selected="Python.linear_regression_test">
     <configuration name="classfication_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -126,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.classfication_test" />
         <item itemvalue="Python.linear_regression_test" />
+        <item itemvalue="Python.classfication_test" />
       </list>
     </recent_temporary>
   </component>
