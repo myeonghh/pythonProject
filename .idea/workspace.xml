@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a15c49a-b001-423e-bf63-6b70ebbe0aa5" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deepLearning_and_or.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_earlyStopping_checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_loss2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_multi_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_normalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_xor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/machine_learning/linear_regression_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/machine_learning/linear_regression_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,41 +54,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.class_item.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classfication_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classification_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_atitle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gender_graph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gender_graph_ex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gender_piechart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gneder_piechart_ex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_regresseion_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_regression_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matplotlib_abstaract_base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numpy_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.population_anal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.titanic-anal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.titanic.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.class_item.executor": "Run",
+    "Python.classfication_test.executor": "Run",
+    "Python.classification_example.executor": "Run",
+    "Python.data_analysis.executor": "Run",
+    "Python.data_atitle.executor": "Run",
+    "Python.deep_learing_multi_layer.executor": "Run",
+    "Python.deep_learning_batch.executor": "Run",
+    "Python.deep_learning_earlyStopping_checkpoint.executor": "Run",
+    "Python.deep_learning_loss.executor": "Run",
+    "Python.deep_learning_loss2.executor": "Run",
+    "Python.deep_learning_normalization.executor": "Run",
+    "Python.deep_learning_optimizer.executor": "Run",
+    "Python.deep_learning_xor.executor": "Run",
+    "Python.deeplearning_basic.executor": "Run",
+    "Python.gender_graph.executor": "Run",
+    "Python.gender_graph_ex.executor": "Run",
+    "Python.gender_piechart.executor": "Run",
+    "Python.gneder_piechart_ex.executor": "Run",
+    "Python.helloworld.executor": "Run",
+    "Python.linear_regresseion_example.executor": "Run",
+    "Python.linear_regression_test.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.matplotlib_abstaract_base.executor": "Run",
+    "Python.numpy_test.executor": "Run",
+    "Python.population_anal.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.titanic-anal.executor": "Run",
+    "Python.titanic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/project/data" />
       <recent name="$PROJECT_DIR$/project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.linear_regression_test">
-    <configuration name="classfication_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.deep_learning_earlyStopping_checkpoint">
+    <configuration name="deep_learning_batch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/deep_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/machine_learning/classfication_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/deep_learning/deep_learning_batch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_regression_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deep_learning_earlyStopping_checkpoint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +128,77 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/deep_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/machine_learning/linear_regression_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/deep_learning/deep_learning_earlyStopping_checkpoint.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deep_learning_loss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/deep_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/deep_learning/deep_learning_loss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deep_learning_loss2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/deep_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/deep_learning/deep_learning_loss2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deep_learning_normalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/deep_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/deep_learning/deep_learning_normalization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,8 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.linear_regression_test" />
-        <item itemvalue="Python.classfication_test" />
+        <item itemvalue="Python.deep_learning_earlyStopping_checkpoint" />
+        <item itemvalue="Python.deep_learning_batch" />
+        <item itemvalue="Python.deep_learning_normalization" />
+        <item itemvalue="Python.deep_learning_loss2" />
+        <item itemvalue="Python.deep_learning_loss" />
       </list>
     </recent_temporary>
   </component>
