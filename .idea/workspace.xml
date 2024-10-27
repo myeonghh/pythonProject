@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a15c49a-b001-423e-bf63-6b70ebbe0aa5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deepLearning_and_or.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_batch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_earlyStopping_checkpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_loss2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_multi_layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_normalization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/deep_learning/deep_learning_xor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a15c49a-b001-423e-bf63-6b70ebbe0aa5" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
